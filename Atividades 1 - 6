@@ -1,0 +1,10 @@
+# atividade-portugol-segundo-bimestre
+1 - O programa escreve "Olá mundo" no console.
+
+2 - O programa escreve "Olá mundoComo vai?" no console, ele escreve tudo junto, isso ocorre, pois, não foi colocado nenhum "\n" no código.
+
+3 - O programa escreve "Olá mundo" e logo a baixo "Como vai?", o "Como vai?" foi para baixo agora pois foi adicionado o "\n" ao código.
+
+4 - O programa espera até que o usuário informe o valor da variável "nome", após o valor inserido ele reescreve o valor novamente no console, à exemplo se um usuário informe o valor da variável como "João" e logo após isso o programa reescreve o mesmo valor no consdole, para resolver isso deveria ser adicionado um "limpa()" abaixo do "leia()", e o resultado do código no console fica mais refinado.
+
+5 - A) O que aconteceu nesse código foi que no console foram exibido, um abaixo do outro, os seguintes valores: 123, 300, 100 + 200. B) Na linha 6 o programa a escreva execução da soma de 100 e 200; na linha 7 ele escreve "100 + 200"
