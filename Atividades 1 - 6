@@ -7,6 +7,6 @@
 
 4 - O programa espera até que o usuário informe o valor da variável "nome", após o valor inserido ele reescreve o valor novamente no console, à exemplo se um usuário informe o valor da variável como "João" e logo após isso o programa reescreve o mesmo valor no consdole, para resolver isso deveria ser adicionado um "limpa()" abaixo do "leia()", e o resultado do código no console fica mais refinado.
 
-5 - A) O que aconteceu nesse código foi que no console foram exibido, um abaixo do outro, os seguintes valores: 123, 300, 100 + 200. B) Na linha 6 o programa a escreva execução da soma de 100 e 200; na linha 7 ele escreve "100 + 200"
+5 - A) O que aconteceu nesse código foi que no console foram exibido, um abaixo do outro, os seguintes valores: 123, 300, 100 + 200. B) Na linha 6 o programa escreve a execução da soma de 100 e 200; na linha 7 ele escreve "100 + 200", e isso ocorre pois está dentro do parênteses.
 
-6 - O programa verifica se
+6 - O programa verifica se o usuário é maior de idade, e se o usuário tiver uma idade maior que 18 ele escreve "maior de idade". 
